@@ -1,3 +1,6 @@
+## Aprendizado do projeto
+* Aprendendo a tratar melhor a separação de responsabilidade, tendo um repository para lidar com as ações do banco, o service para disponibilizar os métodos e o controller para lidar com as rotas. Além disso utilizando o dto para mapear as colunas necessárias no store e no update e também a utilização de enums.
+
 ## Passo a passo para rodar o projeto
 Clone o projeto
 ```sh
